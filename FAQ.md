@@ -1,0 +1,3 @@
+# Documentation
+
+Frequently Asked Questions
