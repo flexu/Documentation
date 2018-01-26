@@ -9,11 +9,11 @@
 **FLEXU** is cryptocurrency that is designed to ensure longevity and stability, ensuring the ecosystem of FLEXU holders is protected through the following key design aspects:
 
 **Available and Stable** - Consistent token supply; ERC20 and ERC223 standards compliant ensuring future compatability with other blockchain design principles. Continuous ever lasting supply enables liquidity to avoid volatility and scarcity.  
-**Trusted self governance** - FLEXU cannot be interfered with as the design of the platform is fully automated. FLEXU is a stable monetary system auctioned daily by descending price.  
+**Trusted self governance** - **FLEXU** cannot be interfered with as the design of the platform is fully automated. **FLEXU** is a stable monetary system auctioned daily by descending price.  
 **Enduring** - Long lasting Cyptocurrency that is usable and atractive to payment providers for purchase of goods and services;  
-**Reliable** - FLEXU is minted daily and available in a descending price auction;  
-**Flexible** - FLEXU is exchangeable for fiat and ETH currencies;  
-**Interoperable** - FLEXU is cross-blockchain compatible, meaning it is migrateable from one blockchain to other blockchains. This provides FLEXU owners with an option to move to other cryptocurrency networks if desired;  
+**Reliable** - **FLEXU** is minted daily and available in a descending price auction;  
+**Flexible** - **FLEXU** is exchangeable for fiat and ETH currencies;  
+**Interoperable** - **FLEXU** is cross-blockchain compatible, meaning it is migrateable from one blockchain to other blockchains. This provides **FLEXU** owners with an option to move to other cryptocurrency networks if desired;  
 
 ## WHY IS THE CRYPTOCURRENCY CALLED FLEXU? ##
 
@@ -23,18 +23,18 @@ In December 2016 we gave birth to the innovative concept of FLEXU a new **flexib
 
 ## HOW CAN I USE FLEXU? ##
 
-FLEXU is designed to act as a trusted, stable and non-volatile token that can be used by any instiution or any community that is seeking a currency which can be used for practical purporses. There will be a number of features that will address design gaps on the Ethereum network. This includes usage as:
+**FLEXU** is designed to act as a trusted, stable and non-volatile token that can be used by any instiution or any community that is seeking a currency which can be used for practical purporses. There will be a number of features that will address design gaps on the Ethereum network. This includes usage as:
 
-1. _Purchase of goods and services_ - the most practical usage of FLEXU, where we will partner with payment providers;    
-2. _Exchange_ - exchange FLEXU for either ETH or fiat currencies;  
-3. _Bulk Payments_ - a service to provide bulk payments of FLEXU tokens to multiple account holders;  
-4. _Transfers_ - a service to allow FLEXU holders to transfer tokens between FLEXU holders;  
-5. _Recurring Payments_ - a service to allow for users to setup recurring payments and other account holders. Recurring payments is a unique feature envisaged to allow for usages such as bill payments or standing orders. The owner would authorize the receiver of FLEXU to take an agreed amount on a periodic time basis e.g. monthly rent;  
+1. _Purchase of goods and services_ - the most practical usage of **FLEXU**, where we will partner with payment providers;    
+2. _Exchange_ - exchange **FLEXU** for either ETH or fiat currencies;  
+3. _Bulk Payments_ - a service to provide bulk payments of **FLEXU** tokens to multiple account holders;  
+4. _Transfers_ - a service to allow **FLEXU** holders to transfer tokens between **FLEXU** holders;  
+5. _Recurring Payments_ - a service to allow for users to setup recurring payments and other account holders. Recurring payments is a unique feature envisaged to allow for usages such as bill payments or standing orders. The owner would authorize the receiver of **FLEXU** to take an agreed amount on a periodic time basis e.g. monthly rent;  
 6. _Increasing store of asset value_ as the asset increases in monetary value this adds further security and trust.
 
 ## WHO OWNS AND GOVERNS FLEXU? ##
 
-**FLEXU** will be governed by the platform smart contracts and community users. **FLEXU** team will be on the governing committee continually developing and maintaining the FLEXU platform and products. This will ensure stability and avoid drama in terms of technical development strategy.
+**FLEXU** will be governed by the platform smart contracts and community users. **FLEXU** team will be on the governing committee continually developing and maintaining the **FLEXU** platform and products. This will ensure stability and avoid drama in terms of technical development strategy.
 
 ## WHO HAS AUDITED THE SMART CONTRACT? ##
 
@@ -48,7 +48,7 @@ The smart contract has been indepdently audited by **<TBD>**.
 
 ## HOW WILL FLEXU BE LAUNCHED? ##
 
-We are currently offering FLEXU tokens to investors at Pre-ICO stage. These core investment funds are being used to design and build a scaleable **FLEXU** platform. 1,000,000 FLEXU is made available to founding investors.
+We are currently offering **FLEXU** tokens to investors at Pre-ICO stage. These core investment funds are being used to design and build a scaleable **FLEXU** platform. 1,000,000 **FLEXU** is made available to founding investors.
 
 ## HOW WILL FOUNDERS AND CORE DELIVERY TEAM OWNERS BE ABLE TO USE THEIR TOKENS? ##
 
@@ -56,11 +56,11 @@ Founders and the the core **FLEXU** delivery team will receive 2,000,000 (20%) t
 
 All revenue generated by the auction will remain in the **FLEXU** economy. **FLEXU** founders and core delivery team can buy and sell **FLEXU**. Following the launch of the ICO, the **FLEXU** ecosystems is automatically controlled by smart contracts.
 
-Ensuring that the **FLEX** team retain tokens in the ecosystem, ensures the team is incentivised to continue to delivering further capability and therefore remain active.  
+Ensuring that the **FLEXU** team retain tokens in the ecosystem, ensures the team is incentivised to continue to delivering further capability and therefore remain active.  
 
 ## HOW WILL THE FLEXU TOKEN SALE TAKE PLACE? ##
 
-**FLEXU** will be available through the official public launch at the Initial Coin Offering ("ICO") stage. There will be 10,000,000 initial FLEXU token supply. This will be distributed as follows:
+**FLEXU** will be available through the official public launch at the Initial Coin Offering ("ICO") stage. There will be 10,000,000 initial **FLEXU** token supply. This will be distributed as follows:
 
 1,000,000 (10%) will be retained by founding investors;
 2,000,000 (20%) will be retained by founders and the core delivery team;
@@ -70,11 +70,11 @@ Please see the whitepapers on our website for further information https://flexu.
 
 ## WHAT IS THE FLEXU AUCTION? ##
 
-**FLEXU** will be made available every day using a descending price auction ("DPA"). The auction will start with a ceiling price at 2 ETH for 1 FLEXU and the price will decrease every minute by 0.0001 ETH. **FLEXU** uses this technique to ensure fairness, stablity and transparency in pricing to the consumer. The auction continues until the **FLEXU** supply is exhausted or the 24 time period expires. This process is repeated every day. Each day a Daily Auction Placement ("DAP") allocation of **FLEXU** is made available. This is either the value greater of a volume of 3,000 **FLEXU** tokens per day or an annual rate equal to 2% of the outstanding supply per year.  
+**FLEXU** will be made available every day using a descending price auction ("DPA"). The auction will start with a ceiling price at 2 ETH for 1 **FLEXU** and the price will decrease every minute by 0.0001 ETH. **FLEXU** uses this technique to ensure fairness, stablity and transparency in pricing to the consumer. The auction continues until the **FLEXU** supply is exhausted or the 24 time period expires. This process is repeated every day. Each day a Daily Auction Placement ("DAP") allocation of **FLEXU** is made available. This is either the value greater of a volume of 3,000 **FLEXU** tokens per day or an annual rate equal to 2% of the outstanding supply per year.  
 
 ## WHEN WILL THE FLEXU INITIAL COIN OFFERING AUCTION START? ##
 
-The initial coin offering ("ICO") daily auction is targetted to launch on 30th April 2018. Once started it will last either 30 days or if the FLEXU supply is fully purchased before that time period. 
+The initial coin offering ("ICO") daily auction is targetted to launch on 30th April 2018. Once started it will last either 30 days or if the **FLEXU** supply is fully purchased before that time period. 
 
 ## WHAT HAPPENS AFTER THE INITIAL COIN OFFERING? ##
 
