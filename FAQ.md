@@ -25,12 +25,12 @@ In December 2016 we gave birth to the innovative concept of FLEXU a new **flexib
 
 FLEXU is designed to act as a trusted, stable and non-volatile token that can be used by any instiution or any community that is seeking a currency which can be used for practical purporses. There will be a number of features that will address design gaps on the Ethereum network. This includes usage as:
 
-1. Purchase of goods and services - the most practical usage of FLEXU, where we will partner with payment providers;    
-2. Exchange - exchange FLEXU for either ETH or fiat currencies;  
-3. Bulk Payments - a service to provide bulk payments of FLEXU tokens to multiple account holders;  
-4. Transfers - a service to allow FLEXU holders to transfer tokens between FLEXU holders;  
-5. Recurring Payments - a service to allow for users to setup recurring payments and other account holders. Recurring payments is a unique feature envisaged to allow for usages such as bill payments or standing orders. The owner would authorize the receiver of FLEXU to take an agreed amount on a periodic time basis e.g. monthly rent;  
-6. Increasing store of asset value.
+1. _Purchase of goods and services_ - the most practical usage of FLEXU, where we will partner with payment providers;    
+2. _Exchange_ - exchange FLEXU for either ETH or fiat currencies;  
+3. _Bulk Payments_ - a service to provide bulk payments of FLEXU tokens to multiple account holders;  
+4. _Transfers_ - a service to allow FLEXU holders to transfer tokens between FLEXU holders;  
+5. _Recurring Payments_ - a service to allow for users to setup recurring payments and other account holders. Recurring payments is a unique feature envisaged to allow for usages such as bill payments or standing orders. The owner would authorize the receiver of FLEXU to take an agreed amount on a periodic time basis e.g. monthly rent;  
+6. _Increasing store of asset value_ as the asset increases in monetary value this adds further security and trust.
 
 ## WHO OWNS AND GOVERNS FLEXU? ##
 
@@ -42,7 +42,7 @@ TBD
 
 ## WHAT BLOCKCHAINS  ##
 
-TBD
+**FLEXU** will initially be launched on Ethereum. After launch we will make **FLEXU** interoperable on the Qtum, Rootstock on Bitcoin and Ethereum Classic blockchains. Further blockchains will be added subsequently. As **FLEXU** matures we will seek to allow other blockchains the ability to exchange their cryptocurrency on our network (subject to community agreement).  
 
 # INITITAL COIN OFFERING ##
 
