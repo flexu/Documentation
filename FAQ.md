@@ -38,7 +38,7 @@ In December 2016 we gave birth to the innovative concept of FLEXU a new **flexib
 
 ## WHO HAS AUDITED THE SMART CONTRACT? ##
 
-The smart contract has been indepdently audited by **To be Identified**. 
+The smart contract has been indepedently audited by **To be Identified**. 
 
 ## WHAT BLOCKCHAINS  ##
 
