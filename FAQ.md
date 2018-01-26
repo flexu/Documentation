@@ -74,7 +74,7 @@ Please see the whitepapers on our website for further information https://flexu.
 
 ## WHEN WILL THE FLEXU INITIAL COIN OFFERING AUCTION START? ##
 
-The initial coin offering ("ICO") daily auction is targetted to launch on 30th April 2018. Once started it will last either 30 days or if the **FLEXU** supply is fully purchased before that time period. 
+The initial coin offering ("ICO") daily auction is targeted to launch on 30th April 2018. Once started it will last either 30 days or if the **FLEXU** supply is fully purchased before that time period. 
 
 ## WHAT HAPPENS AFTER THE INITIAL COIN OFFERING? ##
 
