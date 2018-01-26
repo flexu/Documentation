@@ -34,11 +34,11 @@ FLEXU is designed to act as a trusted, stable and non-volatile token that can be
 
 ## WHO OWNS AND GOVERNS FLEXU? ##
 
-TBD
+**FLEXU** will be governed by the platform smart contracts and community users. **FLEXU** team will be on the governing committee continually developing and maintaining the FLEXU platform and products.
 
-## WHO ARE THE PEOPLE BEHIND FLEXU? ##
+## WHO HAS AUDITED THE SMART CONTRACT? ##
 
-TBD
+The smart contract has been indepdently audited by **<TBD>**. 
 
 ## WHAT BLOCKCHAINS  ##
 
