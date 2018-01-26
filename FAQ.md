@@ -38,7 +38,7 @@ In December 2016 we gave birth to the innovative concept of FLEXU a new **flexib
 
 ## WHO HAS AUDITED THE SMART CONTRACT? ##
 
-The smart contract has been indepdently audited by **<TBD>**. 
+The smart contract has been indepdently audited by **To be Identified**. 
 
 ## WHAT BLOCKCHAINS  ##
 
@@ -87,6 +87,10 @@ There is no limit to minimum or maximum number of tokens that can be purchased a
 ## IS THERE A LIMIT ON THE NUMBER OF FLEXU TOKENS I CAN BUY AT THE DAILY AUCTION PLACEMENT ("DAP")? ##
 
 There is no minimum limit to the number of tokens that can be purchased that can be purchased. There will be a maximum amount of either 500 ETH per transaction or the USD equivalent if acquired by fiat exchanges.  
+
+## WHO GETS THE REVENUE OF THE FLEXU AUCTIONS? ##
+
+All ETH receipts generated from sale of **FLEXU** at the ICO and future daily auctions go to **FLEXU's** Crypto Asset Contract ("CAC) in the Crypto Asset Exchange Engine Contract which ensures stability through liquidity and price support.
 
 ## WHAT ABOUT THE DETAIL? ##
 
