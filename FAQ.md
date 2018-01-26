@@ -48,11 +48,21 @@ TBD
 
 ## HOW WILL FLEXU BE LAUNCHED? ##
 
-TBD
+We are currently offering FLEXU tokens to investors at Pre-ICO stage. These core investment funds are being used to design and build a scaleable **FLEXU** platform. 1,000,000 FLEXU is made available to founding investors.
 
 ## HOW WILL THE FLEXU TOKEN SALE TAKE PLACE? ##
 
-TBD
+**FLEXU** will be available through the official public launch at the Initial Coin Offering ("ICO") stage. There will be 10,000,000 initial FLEXU token supply. This will be distributed as follows:
+
+1,000,000 (10%) will be retained by founding investors;
+2,000,000 (20%) will be retained by founders and the core delivery team;
+7,000,000 (70%) will be available at ICO through a price auction.
+
+Please see the whitepapers on our website for further information https://flexu.com/#whitepapers.
+
+## WHAT IS THE FLEXU AUCTION? ##
+
+**FLEXU** will be made available every day using a descending price auction ("DPA"). The auction will start with a ceiling price at 2 ETH for 1 FLEXU and the price will decrease every minute by 0.0001 ETH. **FLEXU** uses this technique to ensure fairness, stablity and transparency in pricing to the consumer. The auction continues until the **FLEXU** supply is exhausted or the 24 time period expires. This process is repeated every day. Each day a Daily Auction Placement ("DAP") allocation of **FLEXU** is made available. This is either the value greater of a volume of 3,000 **FLEXU** tokens per day or an annual rate equal to 2% of the outstanding supply per year.  
 
 ## WHEN WILL THE FLEXU INITIAL COIN OFFERING AUCTION START? ##
 
