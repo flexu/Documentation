@@ -23,7 +23,7 @@ In December 2016 we gave birth to the innovative concept of FLEXU a new **flexib
 
 ## HOW CAN I USE FLEXU? ##
 
-**FLEXU** is designed to act as a trusted, stable and non-volatile token that can be used by any instiution or any community that is seeking a currency which can be used for practical purporses. There will be a number of features that will address design gaps on the Ethereum network. This includes usage as:
+**FLEXU** is designed to act as a trusted, stable and non-volatile token that can be used by any institution or any community that is seeking a currency which can be used for practical purporses. There will be a number of features that will address design gaps on the Ethereum network. This includes usage as:
 
 1. _Purchase of goods and services_ - the most practical usage of **FLEXU**, where we will partner with payment providers;    
 2. _Exchange_ - exchange **FLEXU** for either ETH or fiat currencies;  
