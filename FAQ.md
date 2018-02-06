@@ -97,6 +97,6 @@ All ETH receipts generated from sale of **FLEXU** at the ICO and future daily au
 You can learn more about FLEXU on our web site https://flexu.com
 We have created the following information tailored to each view (short summary, business and technical):
 
-Summary - https://flexu.com/summary.pdf  
-Business Whitepaper - https://flexu.com/businesswhitepaper.pdf  
+Summary - https://flexu.com/download/4342/  
+Business Whitepaper - https://flexu.com/download/4345/
 Technical Whitepaper - https://flexu.com/technicalwhitepaper.pdf 
